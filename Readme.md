@@ -16,6 +16,7 @@ Things to do:
 	- [ ] logo, colors, style
 	- [ ] translate styles and variables as CSS (need to find a way to make CSS bearable)
 - [ ] Study how to slug the Obsidian notes and transform them in HTML
+	- [ ] integrate obsidian-git plugin for automatically updating the code to github
 - [ ] Integrate python script for dithering (make a note in content)
 - [ ] Finish index.html
 	- [ ] integrate Figma wireframe
